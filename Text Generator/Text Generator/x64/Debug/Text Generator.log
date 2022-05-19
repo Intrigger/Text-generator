@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\Intrigger\Documents\GitHub\Text-generator\Text Generator\Text Generator\Source.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Text Generator.vcxproj -> C:\Users\Intrigger\Documents\GitHub\Text-generator\Text Generator\x64\Debug\Text Generator.exe
